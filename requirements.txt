@@ -1,7 +1,6 @@
-streamlit==1.35.0
-tensorflow-cpu==2.12.0
-numpy==1.23.5
+streamlit
+numpy
 pillow
 scikit-learn
 h5py
-protobuf==3.20.3
+keras
